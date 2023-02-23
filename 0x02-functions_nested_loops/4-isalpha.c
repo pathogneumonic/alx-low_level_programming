@@ -2,6 +2,7 @@
 
 /**
  * _isalpha - Write a function that checks for alphabetic character
+ * @c: input character
  * Return: 1 success 0 otherwise
  */
 
