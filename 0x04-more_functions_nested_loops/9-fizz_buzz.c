@@ -26,11 +26,11 @@ int main(void)
 		}
 		else
 		{
-			printf("%d\n", b);
+			printf("%d", b);
 		}
 
 		b++;
 	}
-	/* printf("\n"); */
+	printf("\n");
 	return (0);
 }
