@@ -2,7 +2,7 @@
 
 /**
  * string_toupper - changes all lowercase to uppercase
- * @s: input string
+ * @str: input string
  * Return: the pointer to dest.
  */
 
